@@ -1,6 +1,6 @@
 # Graph
 
-[Hướng dẫn sử dụng](https://docs.google.com/document/d/1SOpuq4HzcaNVrz3shpetaSBi9PZ5Pz5FzO0yiAaLHts)
+[Test run](tutorial.ipynb)
 
 - Thêm node/cạnh vào đồ thị
 
